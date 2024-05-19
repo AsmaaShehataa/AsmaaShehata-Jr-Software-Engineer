@@ -5,12 +5,9 @@ web development technologies, including Python and JavaScript (ES6). Demonstrate
 in architecting efficient and robust backend components for web applications. Proficient in diverse
 technologies, with notable experience in developing JavaScript algorithms for web scraping from the
 Star Wars API, Implementing Python algorithms for object-relational mapping and building
-JavaScript applications such as a to-do list and a queuing system using Redis.
+JavaScript applications
 
-I am a Highly skilled and motivated software engineer with 4 years of experience in
-designing and developing scalable software applications. Proficient in multiple programming
-languages and frameworks, with a strong focus on building efficient and user-friendly
-solutions. I'm Dedicated to staying updated with emerging technologies and best practices in
+ I'm Dedicated to staying updated with emerging technologies and best practices in
 software development.</p>
 
 <h1 align="center"> WELCOME TO MY WORLD! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
