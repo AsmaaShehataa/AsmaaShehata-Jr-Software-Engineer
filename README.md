@@ -55,11 +55,9 @@ software development.</p>
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <p align="center">
- <a href="https://github.com/dennisnderitu254"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
- <a href="https://www.linkedin.com/in/dennis-kinyanjui-a35a9510b/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
- <a href="https://www.instagram.com/dennisnnderitu_/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
- <a href="https://www.twitter.com/devnderitu/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width = 40px></a>
-
+ <a href="https://github.com/AsmaaShehataa"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width = 40px></a>
+ <a href="https://www.linkedin.com/in/asmaa-shehata-3ba25896/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
+ 
 <!-- <h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day."></h2> -->
 <!--
 <div style="display: flex; justify-content: space-between;">
